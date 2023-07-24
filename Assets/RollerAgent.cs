@@ -19,7 +19,7 @@ public class RollerAgent : Agent
         rBody = GetComponent<Rigidbody>();    
     }
 
-    //Episode 설계
+    //Episode 설계(초기화)
     public override void OnEpisodeBegin(){
         if(this.transform.localPosition.y < 0){
             this.rBody.angularVelocity = Vector3.zero;
