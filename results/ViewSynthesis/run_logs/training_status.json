@@ -1,0 +1,92 @@
+{
+    "ViewSynthesis": {
+        "checkpoints": [
+            {
+                "steps": 499977,
+                "file_path": "results\\ViewSynthesis\\ViewSynthesis\\ViewSynthesis-499977.onnx",
+                "reward": 1.079999964684248,
+                "creation_time": 1690903939.6415987,
+                "auxillary_file_paths": [
+                    "results\\ViewSynthesis\\ViewSynthesis\\ViewSynthesis-499977.pt"
+                ]
+            },
+            {
+                "steps": 999974,
+                "file_path": "results\\ViewSynthesis\\ViewSynthesis\\ViewSynthesis-999974.onnx",
+                "reward": 0.0,
+                "creation_time": 1690912051.771251,
+                "auxillary_file_paths": [
+                    "results\\ViewSynthesis\\ViewSynthesis\\ViewSynthesis-999974.pt"
+                ]
+            },
+            {
+                "steps": 1499954,
+                "file_path": "results\\ViewSynthesis\\ViewSynthesis\\ViewSynthesis-1499954.onnx",
+                "reward": 13.859999656677246,
+                "creation_time": 1690920137.7934384,
+                "auxillary_file_paths": [
+                    "results\\ViewSynthesis\\ViewSynthesis\\ViewSynthesis-1499954.pt"
+                ]
+            },
+            {
+                "steps": 1999960,
+                "file_path": "results\\ViewSynthesis\\ViewSynthesis\\ViewSynthesis-1999960.onnx",
+                "reward": null,
+                "creation_time": 1690928242.0995934,
+                "auxillary_file_paths": [
+                    "results\\ViewSynthesis\\ViewSynthesis\\ViewSynthesis-1999960.pt"
+                ]
+            },
+            {
+                "steps": 2499976,
+                "file_path": "results\\ViewSynthesis\\ViewSynthesis\\ViewSynthesis-2499976.onnx",
+                "reward": 23.280001640319824,
+                "creation_time": 1690936358.0976508,
+                "auxillary_file_paths": [
+                    "results\\ViewSynthesis\\ViewSynthesis\\ViewSynthesis-2499976.pt"
+                ]
+            },
+            {
+                "steps": 2999979,
+                "file_path": "results\\ViewSynthesis\\ViewSynthesis\\ViewSynthesis-2999979.onnx",
+                "reward": 0.0,
+                "creation_time": 1690944477.9939122,
+                "auxillary_file_paths": [
+                    "results\\ViewSynthesis\\ViewSynthesis\\ViewSynthesis-2999979.pt"
+                ]
+            },
+            {
+                "steps": 3499937,
+                "file_path": "results\\ViewSynthesis\\ViewSynthesis\\ViewSynthesis-3499937.onnx",
+                "reward": 2.4399998672306538,
+                "creation_time": 1690952598.1207755,
+                "auxillary_file_paths": [
+                    "results\\ViewSynthesis\\ViewSynthesis\\ViewSynthesis-3499937.pt"
+                ]
+            },
+            {
+                "steps": 3603348,
+                "file_path": "results\\ViewSynthesis\\ViewSynthesis\\ViewSynthesis-3603348.onnx",
+                "reward": 22.23000144958496,
+                "creation_time": 1690954284.7574236,
+                "auxillary_file_paths": [
+                    "results\\ViewSynthesis\\ViewSynthesis\\ViewSynthesis-3603348.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3603348,
+            "file_path": "results\\ViewSynthesis\\ViewSynthesis.onnx",
+            "reward": 22.23000144958496,
+            "creation_time": 1690954284.7574236,
+            "auxillary_file_paths": [
+                "results\\ViewSynthesis\\ViewSynthesis\\ViewSynthesis-3603348.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.13.1"
+    }
+}
